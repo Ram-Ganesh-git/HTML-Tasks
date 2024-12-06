@@ -1,0 +1,85 @@
+.ten-logo {
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+}
+.button{
+    background-color: rgba(242, 77, 17, 0.875);
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    width: 230px;
+    height: 40px;
+    border-style: solid;
+    border-radius: 3px;
+    border-width: 1px;
+}
+.why-section{
+    background-color:#ffffff;
+
+}
+
+.why-section-heading{
+    color:black;
+    font-size: 25px;
+}
+
+.why-section-card{
+    background-color: #ffffff;
+    text-align:center;
+    border-width:0px;
+    border-color:bisque;
+
+
+}
+
+.why-image{
+    height:80px;
+    width:80px;
+}
+
+.why-title{
+    font-size:22px;
+}
+
+.why-description{
+    font-size:16px;
+    color:grey;
+
+}
+
+.home-section{
+    background-color:azure;
+}
+
+.home.para{
+    color:gray;
+
+
+}
+
+.home.heading{
+    color:blac;
+    font-size:20px;
+}
+
+.home.p{
+    color:grey;
+    font-size:23px;
+}
+
+.button-h{
+    background-color:orangered;
+    border-radius:3px;
+    height:50px;
+
+}
+
+.cur-1{
+    text-align:center
+}
+
+.cur-p{
+    text-align:center
+}
